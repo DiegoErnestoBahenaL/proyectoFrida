@@ -1,0 +1,12 @@
+/Users/luisvillalobos/Documents/proyectoFrida/AppFrida/PermisosEntitiesLib/bin/Debug/net5.0/PermisosEntitiesLib.deps.json
+/Users/luisvillalobos/Documents/proyectoFrida/AppFrida/PermisosEntitiesLib/bin/Debug/net5.0/PermisosEntitiesLib.dll
+/Users/luisvillalobos/Documents/proyectoFrida/AppFrida/PermisosEntitiesLib/bin/Debug/net5.0/ref/PermisosEntitiesLib.dll
+/Users/luisvillalobos/Documents/proyectoFrida/AppFrida/PermisosEntitiesLib/bin/Debug/net5.0/PermisosEntitiesLib.pdb
+/Users/luisvillalobos/Documents/proyectoFrida/AppFrida/PermisosEntitiesLib/obj/Debug/net5.0/PermisosEntitiesLib.csprojAssemblyReference.cache
+/Users/luisvillalobos/Documents/proyectoFrida/AppFrida/PermisosEntitiesLib/obj/Debug/net5.0/PermisosEntitiesLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luisvillalobos/Documents/proyectoFrida/AppFrida/PermisosEntitiesLib/obj/Debug/net5.0/PermisosEntitiesLib.AssemblyInfoInputs.cache
+/Users/luisvillalobos/Documents/proyectoFrida/AppFrida/PermisosEntitiesLib/obj/Debug/net5.0/PermisosEntitiesLib.AssemblyInfo.cs
+/Users/luisvillalobos/Documents/proyectoFrida/AppFrida/PermisosEntitiesLib/obj/Debug/net5.0/PermisosEntitiesLib.csproj.CoreCompileInputs.cache
+/Users/luisvillalobos/Documents/proyectoFrida/AppFrida/PermisosEntitiesLib/obj/Debug/net5.0/PermisosEntitiesLib.dll
+/Users/luisvillalobos/Documents/proyectoFrida/AppFrida/PermisosEntitiesLib/obj/Debug/net5.0/ref/PermisosEntitiesLib.dll
+/Users/luisvillalobos/Documents/proyectoFrida/AppFrida/PermisosEntitiesLib/obj/Debug/net5.0/PermisosEntitiesLib.pdb
